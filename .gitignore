@@ -1,0 +1,5 @@
+# The following folders have been ignored because they contain files that weight too much 
+src/data               
+__pycache__
+results_4cts/train
+results_4cts/ablation
